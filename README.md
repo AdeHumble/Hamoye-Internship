@@ -1,2 +1,2 @@
 # Hamoye-Internship
-This file contains the soltions to the code questions in Hamoye Stage A
+This file contains the solutions to the code questions in Hamoye Stage A
